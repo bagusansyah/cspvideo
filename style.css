@@ -1,0 +1,40 @@
+#brand_logo {
+    width: 88px;
+    height: 28px;
+    background: url(img/Logo/logo-slrev.png) center center / contain no-repeat;
+    transition: opacity .2s ease-in-out;
+}
+
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #d8e6ff; 
+    color: black !important;
+}
+
+#imgc{
+    height: 100px;
+}
+
+.promosi{
+    text-align: center;
+    background-color: #EEEEEE;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.produk{
+    display: flex;
+    justify-content: center;
+    gap: 55px;
+    margin-top: 20px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #ffcc00; /* Highlight color */
+  }
+  
+  footer ul.list-inline li {
+    margin-right: 15px;
+  }
